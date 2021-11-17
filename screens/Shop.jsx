@@ -7,7 +7,7 @@ export const Shop = () => {
   return (
     <View style={styles.container}>
       <View style={styles.captionContainer}>
-        <Text style={{ color: "A4a3a3", fontSize: 17 }}>The World's </Text>
+        <Text style={{ color: "#A4a3a3", fontSize: 17 }}>The World's </Text>
         <Text
           style={{
             color: "#000000",
